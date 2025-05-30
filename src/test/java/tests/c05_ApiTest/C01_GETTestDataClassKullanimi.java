@@ -28,6 +28,7 @@ public class C01_GETTestDataClassKullanimi extends tests.baseUrl.JsonPlaceHolder
          */
 
 
+
     @Test
     public void get01(){
 
